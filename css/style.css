@@ -3925,3 +3925,6 @@ label {
 .video-container ,body{
   background-color: #161b22;
 }
+.checkout__total__products li, .checkout__total__all li{
+  color: white;
+}
